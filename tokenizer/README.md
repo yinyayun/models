@@ -1,3 +1,3 @@
-#token-tochr.model
-ÓïÁÏÑ¡ÓÃ[±±Íâ2009¡¢2014Á½¸öÓïÁÏ](http://www.bfsu-corpus.org/channels/corpus)£¬¸ÃÓïÁÏ¼¯Ô¼º¬ÓĞ200W¸ö´Ê¡£
-ÑµÁ·»ùÓÚapache corenlp
+# token-tochr.model
+- è¯­æ–™é€‰ç”¨[åŒ—å¤–2009ã€2014ä¸¤ä¸ªè¯­æ–™](http://www.bfsu-corpus.org/channels/corpus)ï¼Œè¯¥è¯­æ–™é›†çº¦å«æœ‰200Wä¸ªè¯ã€‚
+- è®­ç»ƒåŸºäºapache corenlp
